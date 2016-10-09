@@ -1,0 +1,1 @@
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\bin\Debug\LogisticClassifier.exe.config

@@ -1,0 +1,10 @@
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\bin\Release\LogisticClassifier.exe.config
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\bin\Release\LogisticClassifier.exe
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\bin\Release\LogisticClassifier.pdb
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\bin\Release\LogisticClassifier.xml
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.vbprojResolveAssemblyReference.cache
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.Resources.resources
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.vbproj.GenerateResource.Cache
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.exe
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.xml
+C:\PeterCode\LowenaVB\VBML\Logistic Classifier\LogisticClassifier\LogisticClassifier\obj\Release\LogisticClassifier.pdb
