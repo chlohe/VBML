@@ -19,13 +19,13 @@ Machine Learning. What languages come to mind? R? Python? Matlab? Bet you didn't
 There are probably reasons as to why few have even bothered building open-source machine learning applications in VB (along the lines of uselessness, crappy performance and a general lack of VB people out there).
 I have, however, in an intoxicated, sleep-deprived and overly-confident state, set out on this gargantuan (and probably pointless) exercise to teach a friend (who we shall call Hiroshige) something ever-so-slightly beyond the scope of the Computer Science GCSE syllabus.
 
-I have neither any qualifications in Computer Science nor am I familiar with VB. I'm also mentally unstable. Feel free to fix any horrible errors I've made.
+I have neither any qualifications in Computer Science nor am I familiar with VB. Feel free to fix any horrible errors I've made in my incredibly unstable mental state.
 
 ##Demos
 
 NB: If you want to use your own data, make sure you've saved it as a .CSV file (you can do this in Excel) and make sure that
 - The output values are in the last column (green box)
-- You have a headings row (red box in)
+- You have a headings row (red box)
 - Boolean values are represented as 1s or 0s (green box)
 
 ![alt text](http://i.imgur.com/4BtcjLF.png "Formatting Excel")
