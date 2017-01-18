@@ -1,6 +1,8 @@
 # VBML
 Some mad machine learning tings in the most hipster language known to man: Visual Basic.
 
+As seen on the [CodeProject](https://www.codeproject.com/Articles/1161692/Classificiation-Using-Logistic-Regression-in-Visua).
+
 Currently Implements:
 - Logistic Regression
 
