@@ -15,7 +15,7 @@ Will Probably Implement Sometime in the Distant Distant Future
 - Boltzmann Machines
 - DBNs
 
-##Preface
+## Preface
 Machine Learning. What languages come to mind? R? Python? Matlab? Bet you didn't think Visual Basic. 
 
 There are probably reasons as to why few have even bothered building open-source machine learning applications in VB (along the lines of uselessness, crappy performance and a general lack of VB people out there).
@@ -23,7 +23,7 @@ I have, however, in an intoxicated, sleep-deprived and overly-confident state, s
 
 I have neither any qualifications in Computer Science nor am I familiar with VB. Feel free to fix any horrible errors I've made in my incredibly unstable mental state.
 
-##Demos
+## Demos
 
 NB: If you want to use your own data, make sure you've saved it as a .CSV file (you can do this in Excel) and make sure that
 - The output values are in the last column (green box)
@@ -32,7 +32,7 @@ NB: If you want to use your own data, make sure you've saved it as a .CSV file (
 
 ![alt text](http://i.imgur.com/4BtcjLF.png "Formatting Excel")
 
-###Logistic Classifier
+### Logistic Classifier
 
 This demo takes in training examples and trains a binary (yes/no) classifier on them. This can be vaguely useful in some situations - for example, if you're selling glow-in-the-dark towels, you can use a logistic classifier to work out which of your customers would be interested in your new range of Disney-themed bathroom essentials based upon their previous purchases.
 
